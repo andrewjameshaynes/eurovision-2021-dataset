@@ -1,0 +1,2029 @@
+"performing_country","voting_type","voting_country","points_awarded"
+"albania","jury","albania",0
+"albania","jury","australia",0
+"albania","jury","austria",0
+"albania","jury","azerbaijan",0
+"albania","jury","belgium",0
+"albania","jury","bulgaria",0
+"albania","jury","croatia",0
+"albania","jury","cyprus",0
+"albania","jury","czech republic",0
+"albania","jury","denmark",7
+"albania","jury","estonia",0
+"albania","jury","finland",0
+"albania","jury","france",0
+"albania","jury","georgia",0
+"albania","jury","germany",0
+"albania","jury","greece",0
+"albania","jury","iceland",0
+"albania","jury","ireland",0
+"albania","jury","israel",0
+"albania","jury","italy",0
+"albania","jury","latvia",0
+"albania","jury","lithuania",0
+"albania","jury","malta",12
+"albania","jury","moldova",0
+"albania","jury","netherlands",1
+"albania","jury","north macedonia",0
+"albania","jury","norway",0
+"albania","jury","poland",0
+"albania","jury","portugal",0
+"albania","jury","romania",0
+"albania","jury","russia",0
+"albania","jury","san marino",2
+"albania","jury","serbia",0
+"albania","jury","slovenia",0
+"albania","jury","spain",0
+"albania","jury","sweden",0
+"albania","jury","switzerland",0
+"albania","jury","ukraine",0
+"albania","jury","united kingdom",0
+"azerbaijan","jury","albania",2
+"azerbaijan","jury","australia",0
+"azerbaijan","jury","austria",0
+"azerbaijan","jury","azerbaijan",0
+"azerbaijan","jury","belgium",0
+"azerbaijan","jury","bulgaria",0
+"azerbaijan","jury","croatia",0
+"azerbaijan","jury","cyprus",0
+"azerbaijan","jury","czech republic",0
+"azerbaijan","jury","denmark",0
+"azerbaijan","jury","estonia",0
+"azerbaijan","jury","finland",0
+"azerbaijan","jury","france",0
+"azerbaijan","jury","georgia",5
+"azerbaijan","jury","germany",0
+"azerbaijan","jury","greece",0
+"azerbaijan","jury","iceland",0
+"azerbaijan","jury","ireland",2
+"azerbaijan","jury","israel",2
+"azerbaijan","jury","italy",0
+"azerbaijan","jury","latvia",0
+"azerbaijan","jury","lithuania",0
+"azerbaijan","jury","malta",0
+"azerbaijan","jury","moldova",6
+"azerbaijan","jury","netherlands",2
+"azerbaijan","jury","north macedonia",0
+"azerbaijan","jury","norway",0
+"azerbaijan","jury","poland",0
+"azerbaijan","jury","portugal",0
+"azerbaijan","jury","romania",0
+"azerbaijan","jury","russia",8
+"azerbaijan","jury","san marino",0
+"azerbaijan","jury","serbia",0
+"azerbaijan","jury","slovenia",0
+"azerbaijan","jury","spain",0
+"azerbaijan","jury","sweden",0
+"azerbaijan","jury","switzerland",2
+"azerbaijan","jury","ukraine",3
+"azerbaijan","jury","united kingdom",0
+"belgium","jury","albania",0
+"belgium","jury","australia",0
+"belgium","jury","austria",0
+"belgium","jury","azerbaijan",3
+"belgium","jury","belgium",0
+"belgium","jury","bulgaria",0
+"belgium","jury","croatia",0
+"belgium","jury","cyprus",4
+"belgium","jury","czech republic",3
+"belgium","jury","denmark",0
+"belgium","jury","estonia",0
+"belgium","jury","finland",0
+"belgium","jury","france",6
+"belgium","jury","georgia",0
+"belgium","jury","germany",0
+"belgium","jury","greece",3
+"belgium","jury","iceland",0
+"belgium","jury","ireland",3
+"belgium","jury","israel",6
+"belgium","jury","italy",5
+"belgium","jury","latvia",0
+"belgium","jury","lithuania",7
+"belgium","jury","malta",0
+"belgium","jury","moldova",0
+"belgium","jury","netherlands",6
+"belgium","jury","north macedonia",0
+"belgium","jury","norway",0
+"belgium","jury","poland",3
+"belgium","jury","portugal",5
+"belgium","jury","romania",0
+"belgium","jury","russia",3
+"belgium","jury","san marino",0
+"belgium","jury","serbia",0
+"belgium","jury","slovenia",6
+"belgium","jury","spain",0
+"belgium","jury","sweden",1
+"belgium","jury","switzerland",0
+"belgium","jury","ukraine",6
+"belgium","jury","united kingdom",1
+"bulgaria","jury","albania",0
+"bulgaria","jury","australia",2
+"bulgaria","jury","austria",5
+"bulgaria","jury","azerbaijan",1
+"bulgaria","jury","belgium",6
+"bulgaria","jury","bulgaria",0
+"bulgaria","jury","croatia",0
+"bulgaria","jury","cyprus",5
+"bulgaria","jury","czech republic",4
+"bulgaria","jury","denmark",6
+"bulgaria","jury","estonia",6
+"bulgaria","jury","finland",10
+"bulgaria","jury","france",0
+"bulgaria","jury","georgia",4
+"bulgaria","jury","germany",0
+"bulgaria","jury","greece",8
+"bulgaria","jury","iceland",8
+"bulgaria","jury","ireland",1
+"bulgaria","jury","israel",1
+"bulgaria","jury","italy",0
+"bulgaria","jury","latvia",5
+"bulgaria","jury","lithuania",2
+"bulgaria","jury","malta",0
+"bulgaria","jury","moldova",12
+"bulgaria","jury","netherlands",0
+"bulgaria","jury","north macedonia",0
+"bulgaria","jury","norway",6
+"bulgaria","jury","poland",0
+"bulgaria","jury","portugal",12
+"bulgaria","jury","romania",2
+"bulgaria","jury","russia",6
+"bulgaria","jury","san marino",3
+"bulgaria","jury","serbia",6
+"bulgaria","jury","slovenia",0
+"bulgaria","jury","spain",4
+"bulgaria","jury","sweden",0
+"bulgaria","jury","switzerland",10
+"bulgaria","jury","ukraine",0
+"bulgaria","jury","united kingdom",5
+"cyprus","jury","albania",7
+"cyprus","jury","australia",4
+"cyprus","jury","austria",0
+"cyprus","jury","azerbaijan",0
+"cyprus","jury","belgium",0
+"cyprus","jury","bulgaria",0
+"cyprus","jury","croatia",0
+"cyprus","jury","cyprus",0
+"cyprus","jury","czech republic",0
+"cyprus","jury","denmark",0
+"cyprus","jury","estonia",0
+"cyprus","jury","finland",0
+"cyprus","jury","france",2
+"cyprus","jury","georgia",0
+"cyprus","jury","germany",7
+"cyprus","jury","greece",12
+"cyprus","jury","iceland",0
+"cyprus","jury","ireland",0
+"cyprus","jury","israel",3
+"cyprus","jury","italy",0
+"cyprus","jury","latvia",0
+"cyprus","jury","lithuania",0
+"cyprus","jury","malta",4
+"cyprus","jury","moldova",1
+"cyprus","jury","netherlands",0
+"cyprus","jury","north macedonia",2
+"cyprus","jury","norway",0
+"cyprus","jury","poland",0
+"cyprus","jury","portugal",0
+"cyprus","jury","romania",0
+"cyprus","jury","russia",2
+"cyprus","jury","san marino",0
+"cyprus","jury","serbia",0
+"cyprus","jury","slovenia",0
+"cyprus","jury","spain",6
+"cyprus","jury","sweden",0
+"cyprus","jury","switzerland",0
+"cyprus","jury","ukraine",0
+"cyprus","jury","united kingdom",0
+"finland","jury","albania",3
+"finland","jury","australia",0
+"finland","jury","austria",1
+"finland","jury","azerbaijan",0
+"finland","jury","belgium",8
+"finland","jury","bulgaria",1
+"finland","jury","croatia",0
+"finland","jury","cyprus",3
+"finland","jury","czech republic",1
+"finland","jury","denmark",8
+"finland","jury","estonia",7
+"finland","jury","finland",0
+"finland","jury","france",0
+"finland","jury","georgia",0
+"finland","jury","germany",0
+"finland","jury","greece",0
+"finland","jury","iceland",5
+"finland","jury","ireland",0
+"finland","jury","israel",0
+"finland","jury","italy",10
+"finland","jury","latvia",4
+"finland","jury","lithuania",0
+"finland","jury","malta",2
+"finland","jury","moldova",0
+"finland","jury","netherlands",0
+"finland","jury","north macedonia",0
+"finland","jury","norway",0
+"finland","jury","poland",2
+"finland","jury","portugal",0
+"finland","jury","romania",8
+"finland","jury","russia",0
+"finland","jury","san marino",1
+"finland","jury","serbia",10
+"finland","jury","slovenia",4
+"finland","jury","spain",0
+"finland","jury","sweden",0
+"finland","jury","switzerland",1
+"finland","jury","ukraine",0
+"finland","jury","united kingdom",4
+"france","jury","albania",10
+"france","jury","australia",7
+"france","jury","austria",8
+"france","jury","azerbaijan",4
+"france","jury","belgium",0
+"france","jury","bulgaria",7
+"france","jury","croatia",6
+"france","jury","cyprus",7
+"france","jury","czech republic",10
+"france","jury","denmark",0
+"france","jury","estonia",10
+"france","jury","finland",7
+"france","jury","france",0
+"france","jury","georgia",0
+"france","jury","germany",12
+"france","jury","greece",5
+"france","jury","iceland",6
+"france","jury","ireland",12
+"france","jury","israel",8
+"france","jury","italy",3
+"france","jury","latvia",3
+"france","jury","lithuania",5
+"france","jury","malta",3
+"france","jury","moldova",4
+"france","jury","netherlands",12
+"france","jury","north macedonia",7
+"france","jury","norway",4
+"france","jury","poland",0
+"france","jury","portugal",6
+"france","jury","romania",4
+"france","jury","russia",0
+"france","jury","san marino",12
+"france","jury","serbia",12
+"france","jury","slovenia",2
+"france","jury","spain",12
+"france","jury","sweden",6
+"france","jury","switzerland",12
+"france","jury","ukraine",10
+"france","jury","united kingdom",12
+"germany","jury","albania",0
+"germany","jury","australia",0
+"germany","jury","austria",2
+"germany","jury","azerbaijan",0
+"germany","jury","belgium",0
+"germany","jury","bulgaria",0
+"germany","jury","croatia",0
+"germany","jury","cyprus",0
+"germany","jury","czech republic",0
+"germany","jury","denmark",0
+"germany","jury","estonia",0
+"germany","jury","finland",0
+"germany","jury","france",0
+"germany","jury","georgia",0
+"germany","jury","germany",0
+"germany","jury","greece",0
+"germany","jury","iceland",0
+"germany","jury","ireland",0
+"germany","jury","israel",0
+"germany","jury","italy",0
+"germany","jury","latvia",0
+"germany","jury","lithuania",0
+"germany","jury","malta",0
+"germany","jury","moldova",0
+"germany","jury","netherlands",0
+"germany","jury","north macedonia",0
+"germany","jury","norway",0
+"germany","jury","poland",0
+"germany","jury","portugal",0
+"germany","jury","romania",1
+"germany","jury","russia",0
+"germany","jury","san marino",0
+"germany","jury","serbia",0
+"germany","jury","slovenia",0
+"germany","jury","spain",0
+"germany","jury","sweden",0
+"germany","jury","switzerland",0
+"germany","jury","ukraine",0
+"germany","jury","united kingdom",0
+"greece","jury","albania",6
+"greece","jury","australia",0
+"greece","jury","austria",0
+"greece","jury","azerbaijan",10
+"greece","jury","belgium",0
+"greece","jury","bulgaria",8
+"greece","jury","croatia",0
+"greece","jury","cyprus",12
+"greece","jury","czech republic",0
+"greece","jury","denmark",0
+"greece","jury","estonia",0
+"greece","jury","finland",2
+"greece","jury","france",12
+"greece","jury","georgia",0
+"greece","jury","germany",0
+"greece","jury","greece",0
+"greece","jury","iceland",4
+"greece","jury","ireland",0
+"greece","jury","israel",0
+"greece","jury","italy",0
+"greece","jury","latvia",0
+"greece","jury","lithuania",0
+"greece","jury","malta",6
+"greece","jury","moldova",8
+"greece","jury","netherlands",0
+"greece","jury","north macedonia",0
+"greece","jury","norway",1
+"greece","jury","poland",0
+"greece","jury","portugal",0
+"greece","jury","romania",0
+"greece","jury","russia",7
+"greece","jury","san marino",8
+"greece","jury","serbia",3
+"greece","jury","slovenia",3
+"greece","jury","spain",1
+"greece","jury","sweden",0
+"greece","jury","switzerland",0
+"greece","jury","ukraine",0
+"greece","jury","united kingdom",0
+"iceland","jury","albania",0
+"iceland","jury","australia",8
+"iceland","jury","austria",12
+"iceland","jury","azerbaijan",0
+"iceland","jury","belgium",3
+"iceland","jury","bulgaria",0
+"iceland","jury","croatia",10
+"iceland","jury","cyprus",0
+"iceland","jury","czech republic",8
+"iceland","jury","denmark",10
+"iceland","jury","estonia",8
+"iceland","jury","finland",8
+"iceland","jury","france",3
+"iceland","jury","georgia",6
+"iceland","jury","germany",3
+"iceland","jury","greece",0
+"iceland","jury","iceland",0
+"iceland","jury","ireland",8
+"iceland","jury","israel",0
+"iceland","jury","italy",8
+"iceland","jury","latvia",10
+"iceland","jury","lithuania",4
+"iceland","jury","malta",0
+"iceland","jury","moldova",5
+"iceland","jury","netherlands",10
+"iceland","jury","north macedonia",4
+"iceland","jury","norway",2
+"iceland","jury","poland",10
+"iceland","jury","portugal",8
+"iceland","jury","romania",0
+"iceland","jury","russia",0
+"iceland","jury","san marino",0
+"iceland","jury","serbia",7
+"iceland","jury","slovenia",10
+"iceland","jury","spain",7
+"iceland","jury","sweden",7
+"iceland","jury","switzerland",5
+"iceland","jury","ukraine",4
+"iceland","jury","united kingdom",10
+"israel","jury","albania",0
+"israel","jury","australia",0
+"israel","jury","austria",0
+"israel","jury","azerbaijan",0
+"israel","jury","belgium",0
+"israel","jury","bulgaria",3
+"israel","jury","croatia",5
+"israel","jury","cyprus",0
+"israel","jury","czech republic",0
+"israel","jury","denmark",1
+"israel","jury","estonia",0
+"israel","jury","finland",0
+"israel","jury","france",5
+"israel","jury","georgia",0
+"israel","jury","germany",0
+"israel","jury","greece",0
+"israel","jury","iceland",0
+"israel","jury","ireland",0
+"israel","jury","israel",0
+"israel","jury","italy",4
+"israel","jury","latvia",0
+"israel","jury","lithuania",1
+"israel","jury","malta",0
+"israel","jury","moldova",0
+"israel","jury","netherlands",4
+"israel","jury","north macedonia",8
+"israel","jury","norway",8
+"israel","jury","poland",6
+"israel","jury","portugal",0
+"israel","jury","romania",0
+"israel","jury","russia",5
+"israel","jury","san marino",0
+"israel","jury","serbia",2
+"israel","jury","slovenia",1
+"israel","jury","spain",3
+"israel","jury","sweden",4
+"israel","jury","switzerland",0
+"israel","jury","ukraine",7
+"israel","jury","united kingdom",6
+"italy","jury","albania",4
+"italy","jury","australia",6
+"italy","jury","austria",6
+"italy","jury","azerbaijan",0
+"italy","jury","belgium",2
+"italy","jury","bulgaria",10
+"italy","jury","croatia",12
+"italy","jury","cyprus",8
+"italy","jury","czech republic",6
+"italy","jury","denmark",0
+"italy","jury","estonia",3
+"italy","jury","finland",6
+"italy","jury","france",0
+"italy","jury","georgia",12
+"italy","jury","germany",6
+"italy","jury","greece",4
+"italy","jury","iceland",7
+"italy","jury","ireland",0
+"italy","jury","israel",0
+"italy","jury","italy",0
+"italy","jury","latvia",8
+"italy","jury","lithuania",10
+"italy","jury","malta",0
+"italy","jury","moldova",0
+"italy","jury","netherlands",0
+"italy","jury","north macedonia",10
+"italy","jury","norway",5
+"italy","jury","poland",5
+"italy","jury","portugal",3
+"italy","jury","romania",3
+"italy","jury","russia",10
+"italy","jury","san marino",10
+"italy","jury","serbia",8
+"italy","jury","slovenia",12
+"italy","jury","spain",0
+"italy","jury","sweden",10
+"italy","jury","switzerland",8
+"italy","jury","ukraine",12
+"italy","jury","united kingdom",0
+"lithuania","jury","albania",0
+"lithuania","jury","australia",0
+"lithuania","jury","austria",0
+"lithuania","jury","azerbaijan",0
+"lithuania","jury","belgium",0
+"lithuania","jury","bulgaria",0
+"lithuania","jury","croatia",2
+"lithuania","jury","cyprus",0
+"lithuania","jury","czech republic",0
+"lithuania","jury","denmark",0
+"lithuania","jury","estonia",2
+"lithuania","jury","finland",3
+"lithuania","jury","france",0
+"lithuania","jury","georgia",3
+"lithuania","jury","germany",1
+"lithuania","jury","greece",0
+"lithuania","jury","iceland",0
+"lithuania","jury","ireland",4
+"lithuania","jury","israel",10
+"lithuania","jury","italy",12
+"lithuania","jury","latvia",6
+"lithuania","jury","lithuania",0
+"lithuania","jury","malta",0
+"lithuania","jury","moldova",0
+"lithuania","jury","netherlands",0
+"lithuania","jury","north macedonia",0
+"lithuania","jury","norway",0
+"lithuania","jury","poland",0
+"lithuania","jury","portugal",0
+"lithuania","jury","romania",0
+"lithuania","jury","russia",0
+"lithuania","jury","san marino",6
+"lithuania","jury","serbia",0
+"lithuania","jury","slovenia",0
+"lithuania","jury","spain",2
+"lithuania","jury","sweden",0
+"lithuania","jury","switzerland",4
+"lithuania","jury","ukraine",0
+"lithuania","jury","united kingdom",0
+"malta","jury","albania",8
+"malta","jury","australia",12
+"malta","jury","austria",4
+"malta","jury","azerbaijan",7
+"malta","jury","belgium",5
+"malta","jury","bulgaria",5
+"malta","jury","croatia",3
+"malta","jury","cyprus",10
+"malta","jury","czech republic",7
+"malta","jury","denmark",4
+"malta","jury","estonia",1
+"malta","jury","finland",1
+"malta","jury","france",0
+"malta","jury","georgia",1
+"malta","jury","germany",8
+"malta","jury","greece",6
+"malta","jury","iceland",1
+"malta","jury","ireland",10
+"malta","jury","israel",5
+"malta","jury","italy",7
+"malta","jury","latvia",2
+"malta","jury","lithuania",3
+"malta","jury","malta",0
+"malta","jury","moldova",7
+"malta","jury","netherlands",7
+"malta","jury","north macedonia",5
+"malta","jury","norway",12
+"malta","jury","poland",4
+"malta","jury","portugal",4
+"malta","jury","romania",12
+"malta","jury","russia",4
+"malta","jury","san marino",7
+"malta","jury","serbia",0
+"malta","jury","slovenia",5
+"malta","jury","spain",8
+"malta","jury","sweden",12
+"malta","jury","switzerland",6
+"malta","jury","ukraine",5
+"malta","jury","united kingdom",0
+"moldova","jury","albania",0
+"moldova","jury","australia",0
+"moldova","jury","austria",0
+"moldova","jury","azerbaijan",8
+"moldova","jury","belgium",0
+"moldova","jury","bulgaria",12
+"moldova","jury","croatia",0
+"moldova","jury","cyprus",0
+"moldova","jury","czech republic",0
+"moldova","jury","denmark",0
+"moldova","jury","estonia",0
+"moldova","jury","finland",0
+"moldova","jury","france",0
+"moldova","jury","georgia",0
+"moldova","jury","germany",0
+"moldova","jury","greece",10
+"moldova","jury","iceland",0
+"moldova","jury","ireland",0
+"moldova","jury","israel",0
+"moldova","jury","italy",0
+"moldova","jury","latvia",0
+"moldova","jury","lithuania",0
+"moldova","jury","malta",0
+"moldova","jury","moldova",0
+"moldova","jury","netherlands",0
+"moldova","jury","north macedonia",0
+"moldova","jury","norway",0
+"moldova","jury","poland",0
+"moldova","jury","portugal",0
+"moldova","jury","romania",6
+"moldova","jury","russia",12
+"moldova","jury","san marino",5
+"moldova","jury","serbia",0
+"moldova","jury","slovenia",0
+"moldova","jury","spain",0
+"moldova","jury","sweden",0
+"moldova","jury","switzerland",0
+"moldova","jury","ukraine",0
+"moldova","jury","united kingdom",0
+"netherlands","jury","albania",0
+"netherlands","jury","australia",3
+"netherlands","jury","austria",3
+"netherlands","jury","azerbaijan",0
+"netherlands","jury","belgium",0
+"netherlands","jury","bulgaria",2
+"netherlands","jury","croatia",0
+"netherlands","jury","cyprus",0
+"netherlands","jury","czech republic",0
+"netherlands","jury","denmark",0
+"netherlands","jury","estonia",0
+"netherlands","jury","finland",0
+"netherlands","jury","france",0
+"netherlands","jury","georgia",2
+"netherlands","jury","germany",0
+"netherlands","jury","greece",0
+"netherlands","jury","iceland",0
+"netherlands","jury","ireland",0
+"netherlands","jury","israel",0
+"netherlands","jury","italy",0
+"netherlands","jury","latvia",0
+"netherlands","jury","lithuania",0
+"netherlands","jury","malta",0
+"netherlands","jury","moldova",0
+"netherlands","jury","netherlands",0
+"netherlands","jury","north macedonia",0
+"netherlands","jury","norway",0
+"netherlands","jury","poland",0
+"netherlands","jury","portugal",1
+"netherlands","jury","romania",0
+"netherlands","jury","russia",0
+"netherlands","jury","san marino",0
+"netherlands","jury","serbia",0
+"netherlands","jury","slovenia",0
+"netherlands","jury","spain",0
+"netherlands","jury","sweden",0
+"netherlands","jury","switzerland",0
+"netherlands","jury","ukraine",0
+"netherlands","jury","united kingdom",0
+"norway","jury","albania",0
+"norway","jury","australia",0
+"norway","jury","austria",0
+"norway","jury","azerbaijan",0
+"norway","jury","belgium",0
+"norway","jury","bulgaria",0
+"norway","jury","croatia",0
+"norway","jury","cyprus",0
+"norway","jury","czech republic",0
+"norway","jury","denmark",3
+"norway","jury","estonia",0
+"norway","jury","finland",0
+"norway","jury","france",0
+"norway","jury","georgia",0
+"norway","jury","germany",0
+"norway","jury","greece",0
+"norway","jury","iceland",0
+"norway","jury","ireland",7
+"norway","jury","israel",0
+"norway","jury","italy",2
+"norway","jury","latvia",0
+"norway","jury","lithuania",0
+"norway","jury","malta",0
+"norway","jury","moldova",0
+"norway","jury","netherlands",0
+"norway","jury","north macedonia",0
+"norway","jury","norway",0
+"norway","jury","poland",0
+"norway","jury","portugal",0
+"norway","jury","romania",0
+"norway","jury","russia",0
+"norway","jury","san marino",0
+"norway","jury","serbia",0
+"norway","jury","slovenia",0
+"norway","jury","spain",0
+"norway","jury","sweden",2
+"norway","jury","switzerland",0
+"norway","jury","ukraine",1
+"norway","jury","united kingdom",0
+"portugal","jury","albania",0
+"portugal","jury","australia",0
+"portugal","jury","austria",7
+"portugal","jury","azerbaijan",2
+"portugal","jury","belgium",1
+"portugal","jury","bulgaria",6
+"portugal","jury","croatia",1
+"portugal","jury","cyprus",1
+"portugal","jury","czech republic",12
+"portugal","jury","denmark",0
+"portugal","jury","estonia",5
+"portugal","jury","finland",0
+"portugal","jury","france",8
+"portugal","jury","georgia",8
+"portugal","jury","germany",0
+"portugal","jury","greece",0
+"portugal","jury","iceland",10
+"portugal","jury","ireland",0
+"portugal","jury","israel",0
+"portugal","jury","italy",6
+"portugal","jury","latvia",0
+"portugal","jury","lithuania",6
+"portugal","jury","malta",7
+"portugal","jury","moldova",2
+"portugal","jury","netherlands",0
+"portugal","jury","north macedonia",0
+"portugal","jury","norway",0
+"portugal","jury","poland",8
+"portugal","jury","portugal",0
+"portugal","jury","romania",10
+"portugal","jury","russia",0
+"portugal","jury","san marino",0
+"portugal","jury","serbia",5
+"portugal","jury","slovenia",0
+"portugal","jury","spain",5
+"portugal","jury","sweden",0
+"portugal","jury","switzerland",7
+"portugal","jury","ukraine",2
+"portugal","jury","united kingdom",7
+"russia","jury","albania",0
+"russia","jury","australia",1
+"russia","jury","austria",0
+"russia","jury","azerbaijan",12
+"russia","jury","belgium",7
+"russia","jury","bulgaria",0
+"russia","jury","croatia",4
+"russia","jury","cyprus",6
+"russia","jury","czech republic",2
+"russia","jury","denmark",0
+"russia","jury","estonia",0
+"russia","jury","finland",4
+"russia","jury","france",10
+"russia","jury","georgia",0
+"russia","jury","germany",2
+"russia","jury","greece",2
+"russia","jury","iceland",2
+"russia","jury","ireland",0
+"russia","jury","israel",7
+"russia","jury","italy",0
+"russia","jury","latvia",1
+"russia","jury","lithuania",0
+"russia","jury","malta",0
+"russia","jury","moldova",10
+"russia","jury","netherlands",8
+"russia","jury","north macedonia",1
+"russia","jury","norway",0
+"russia","jury","poland",1
+"russia","jury","portugal",10
+"russia","jury","romania",0
+"russia","jury","russia",0
+"russia","jury","san marino",0
+"russia","jury","serbia",0
+"russia","jury","slovenia",8
+"russia","jury","spain",0
+"russia","jury","sweden",3
+"russia","jury","switzerland",3
+"russia","jury","ukraine",0
+"russia","jury","united kingdom",0
+"san marino","jury","albania",5
+"san marino","jury","australia",0
+"san marino","jury","austria",0
+"san marino","jury","azerbaijan",0
+"san marino","jury","belgium",0
+"san marino","jury","bulgaria",0
+"san marino","jury","croatia",0
+"san marino","jury","cyprus",0
+"san marino","jury","czech republic",0
+"san marino","jury","denmark",5
+"san marino","jury","estonia",0
+"san marino","jury","finland",0
+"san marino","jury","france",4
+"san marino","jury","georgia",0
+"san marino","jury","germany",0
+"san marino","jury","greece",7
+"san marino","jury","iceland",0
+"san marino","jury","ireland",0
+"san marino","jury","israel",0
+"san marino","jury","italy",0
+"san marino","jury","latvia",0
+"san marino","jury","lithuania",0
+"san marino","jury","malta",1
+"san marino","jury","moldova",0
+"san marino","jury","netherlands",0
+"san marino","jury","north macedonia",0
+"san marino","jury","norway",0
+"san marino","jury","poland",12
+"san marino","jury","portugal",0
+"san marino","jury","romania",0
+"san marino","jury","russia",0
+"san marino","jury","san marino",0
+"san marino","jury","serbia",0
+"san marino","jury","slovenia",0
+"san marino","jury","spain",0
+"san marino","jury","sweden",0
+"san marino","jury","switzerland",0
+"san marino","jury","ukraine",0
+"san marino","jury","united kingdom",3
+"serbia","jury","albania",1
+"serbia","jury","australia",0
+"serbia","jury","austria",0
+"serbia","jury","azerbaijan",0
+"serbia","jury","belgium",0
+"serbia","jury","bulgaria",0
+"serbia","jury","croatia",7
+"serbia","jury","cyprus",0
+"serbia","jury","czech republic",0
+"serbia","jury","denmark",0
+"serbia","jury","estonia",0
+"serbia","jury","finland",0
+"serbia","jury","france",0
+"serbia","jury","georgia",0
+"serbia","jury","germany",0
+"serbia","jury","greece",0
+"serbia","jury","iceland",0
+"serbia","jury","ireland",0
+"serbia","jury","israel",0
+"serbia","jury","italy",0
+"serbia","jury","latvia",0
+"serbia","jury","lithuania",0
+"serbia","jury","malta",0
+"serbia","jury","moldova",0
+"serbia","jury","netherlands",0
+"serbia","jury","north macedonia",12
+"serbia","jury","norway",0
+"serbia","jury","poland",0
+"serbia","jury","portugal",0
+"serbia","jury","romania",0
+"serbia","jury","russia",0
+"serbia","jury","san marino",0
+"serbia","jury","serbia",0
+"serbia","jury","slovenia",0
+"serbia","jury","spain",0
+"serbia","jury","sweden",0
+"serbia","jury","switzerland",0
+"serbia","jury","ukraine",0
+"serbia","jury","united kingdom",0
+"spain","jury","albania",0
+"spain","jury","australia",0
+"spain","jury","austria",0
+"spain","jury","azerbaijan",0
+"spain","jury","belgium",0
+"spain","jury","bulgaria",4
+"spain","jury","croatia",0
+"spain","jury","cyprus",0
+"spain","jury","czech republic",0
+"spain","jury","denmark",0
+"spain","jury","estonia",0
+"spain","jury","finland",0
+"spain","jury","france",0
+"spain","jury","georgia",0
+"spain","jury","germany",0
+"spain","jury","greece",0
+"spain","jury","iceland",0
+"spain","jury","ireland",0
+"spain","jury","israel",0
+"spain","jury","italy",0
+"spain","jury","latvia",0
+"spain","jury","lithuania",0
+"spain","jury","malta",0
+"spain","jury","moldova",0
+"spain","jury","netherlands",0
+"spain","jury","north macedonia",0
+"spain","jury","norway",0
+"spain","jury","poland",0
+"spain","jury","portugal",0
+"spain","jury","romania",0
+"spain","jury","russia",0
+"spain","jury","san marino",0
+"spain","jury","serbia",0
+"spain","jury","slovenia",0
+"spain","jury","spain",0
+"spain","jury","sweden",0
+"spain","jury","switzerland",0
+"spain","jury","ukraine",0
+"spain","jury","united kingdom",2
+"sweden","jury","albania",0
+"sweden","jury","australia",0
+"sweden","jury","austria",0
+"sweden","jury","azerbaijan",5
+"sweden","jury","belgium",4
+"sweden","jury","bulgaria",0
+"sweden","jury","croatia",0
+"sweden","jury","cyprus",0
+"sweden","jury","czech republic",0
+"sweden","jury","denmark",2
+"sweden","jury","estonia",0
+"sweden","jury","finland",5
+"sweden","jury","france",1
+"sweden","jury","georgia",0
+"sweden","jury","germany",4
+"sweden","jury","greece",0
+"sweden","jury","iceland",0
+"sweden","jury","ireland",0
+"sweden","jury","israel",0
+"sweden","jury","italy",0
+"sweden","jury","latvia",0
+"sweden","jury","lithuania",0
+"sweden","jury","malta",8
+"sweden","jury","moldova",0
+"sweden","jury","netherlands",0
+"sweden","jury","north macedonia",3
+"sweden","jury","norway",10
+"sweden","jury","poland",0
+"sweden","jury","portugal",0
+"sweden","jury","romania",0
+"sweden","jury","russia",0
+"sweden","jury","san marino",0
+"sweden","jury","serbia",4
+"sweden","jury","slovenia",0
+"sweden","jury","spain",0
+"sweden","jury","sweden",0
+"sweden","jury","switzerland",0
+"sweden","jury","ukraine",0
+"sweden","jury","united kingdom",0
+"switzerland","jury","albania",12
+"switzerland","jury","australia",10
+"switzerland","jury","austria",10
+"switzerland","jury","azerbaijan",0
+"switzerland","jury","belgium",12
+"switzerland","jury","bulgaria",0
+"switzerland","jury","croatia",8
+"switzerland","jury","cyprus",2
+"switzerland","jury","czech republic",5
+"switzerland","jury","denmark",12
+"switzerland","jury","estonia",12
+"switzerland","jury","finland",12
+"switzerland","jury","france",7
+"switzerland","jury","georgia",10
+"switzerland","jury","germany",10
+"switzerland","jury","greece",0
+"switzerland","jury","iceland",12
+"switzerland","jury","ireland",5
+"switzerland","jury","israel",12
+"switzerland","jury","italy",0
+"switzerland","jury","latvia",12
+"switzerland","jury","lithuania",8
+"switzerland","jury","malta",10
+"switzerland","jury","moldova",3
+"switzerland","jury","netherlands",5
+"switzerland","jury","north macedonia",6
+"switzerland","jury","norway",7
+"switzerland","jury","poland",7
+"switzerland","jury","portugal",7
+"switzerland","jury","romania",7
+"switzerland","jury","russia",1
+"switzerland","jury","san marino",4
+"switzerland","jury","serbia",1
+"switzerland","jury","slovenia",7
+"switzerland","jury","spain",10
+"switzerland","jury","sweden",5
+"switzerland","jury","switzerland",0
+"switzerland","jury","ukraine",8
+"switzerland","jury","united kingdom",8
+"ukraine","jury","albania",0
+"ukraine","jury","australia",5
+"ukraine","jury","austria",0
+"ukraine","jury","azerbaijan",6
+"ukraine","jury","belgium",10
+"ukraine","jury","bulgaria",0
+"ukraine","jury","croatia",0
+"ukraine","jury","cyprus",0
+"ukraine","jury","czech republic",0
+"ukraine","jury","denmark",0
+"ukraine","jury","estonia",4
+"ukraine","jury","finland",0
+"ukraine","jury","france",0
+"ukraine","jury","georgia",7
+"ukraine","jury","germany",5
+"ukraine","jury","greece",1
+"ukraine","jury","iceland",3
+"ukraine","jury","ireland",6
+"ukraine","jury","israel",4
+"ukraine","jury","italy",1
+"ukraine","jury","latvia",7
+"ukraine","jury","lithuania",12
+"ukraine","jury","malta",5
+"ukraine","jury","moldova",0
+"ukraine","jury","netherlands",3
+"ukraine","jury","north macedonia",0
+"ukraine","jury","norway",3
+"ukraine","jury","poland",0
+"ukraine","jury","portugal",2
+"ukraine","jury","romania",5
+"ukraine","jury","russia",0
+"ukraine","jury","san marino",0
+"ukraine","jury","serbia",0
+"ukraine","jury","slovenia",0
+"ukraine","jury","spain",0
+"ukraine","jury","sweden",8
+"ukraine","jury","switzerland",0
+"ukraine","jury","ukraine",0
+"ukraine","jury","united kingdom",0
+"united kingdom","jury","albania",0
+"united kingdom","jury","australia",0
+"united kingdom","jury","austria",0
+"united kingdom","jury","azerbaijan",0
+"united kingdom","jury","belgium",0
+"united kingdom","jury","bulgaria",0
+"united kingdom","jury","croatia",0
+"united kingdom","jury","cyprus",0
+"united kingdom","jury","czech republic",0
+"united kingdom","jury","denmark",0
+"united kingdom","jury","estonia",0
+"united kingdom","jury","finland",0
+"united kingdom","jury","france",0
+"united kingdom","jury","georgia",0
+"united kingdom","jury","germany",0
+"united kingdom","jury","greece",0
+"united kingdom","jury","iceland",0
+"united kingdom","jury","ireland",0
+"united kingdom","jury","israel",0
+"united kingdom","jury","italy",0
+"united kingdom","jury","latvia",0
+"united kingdom","jury","lithuania",0
+"united kingdom","jury","malta",0
+"united kingdom","jury","moldova",0
+"united kingdom","jury","netherlands",0
+"united kingdom","jury","north macedonia",0
+"united kingdom","jury","norway",0
+"united kingdom","jury","poland",0
+"united kingdom","jury","portugal",0
+"united kingdom","jury","romania",0
+"united kingdom","jury","russia",0
+"united kingdom","jury","san marino",0
+"united kingdom","jury","serbia",0
+"united kingdom","jury","slovenia",0
+"united kingdom","jury","spain",0
+"united kingdom","jury","sweden",0
+"united kingdom","jury","switzerland",0
+"united kingdom","jury","ukraine",0
+"united kingdom","jury","united kingdom",0
+"albania","public","albania",0
+"albania","public","australia",0
+"albania","public","austria",0
+"albania","public","azerbaijan",0
+"albania","public","belgium",0
+"albania","public","bulgaria",0
+"albania","public","croatia",1
+"albania","public","cyprus",0
+"albania","public","czech republic",0
+"albania","public","denmark",0
+"albania","public","estonia",0
+"albania","public","finland",0
+"albania","public","france",0
+"albania","public","georgia",0
+"albania","public","germany",0
+"albania","public","greece",7
+"albania","public","iceland",0
+"albania","public","ireland",0
+"albania","public","israel",0
+"albania","public","italy",10
+"albania","public","latvia",0
+"albania","public","lithuania",0
+"albania","public","malta",0
+"albania","public","moldova",0
+"albania","public","netherlands",0
+"albania","public","north macedonia",10
+"albania","public","norway",0
+"albania","public","poland",0
+"albania","public","portugal",0
+"albania","public","romania",0
+"albania","public","russia",0
+"albania","public","san marino",0
+"albania","public","serbia",0
+"albania","public","slovenia",0
+"albania","public","spain",0
+"albania","public","sweden",0
+"albania","public","switzerland",7
+"albania","public","ukraine",0
+"albania","public","united kingdom",0
+"azerbaijan","public","albania",0
+"azerbaijan","public","australia",0
+"azerbaijan","public","austria",0
+"azerbaijan","public","azerbaijan",0
+"azerbaijan","public","belgium",0
+"azerbaijan","public","bulgaria",4
+"azerbaijan","public","croatia",2
+"azerbaijan","public","cyprus",0
+"azerbaijan","public","czech republic",0
+"azerbaijan","public","denmark",0
+"azerbaijan","public","estonia",0
+"azerbaijan","public","finland",0
+"azerbaijan","public","france",0
+"azerbaijan","public","georgia",3
+"azerbaijan","public","germany",0
+"azerbaijan","public","greece",2
+"azerbaijan","public","iceland",0
+"azerbaijan","public","ireland",0
+"azerbaijan","public","israel",2
+"azerbaijan","public","italy",0
+"azerbaijan","public","latvia",0
+"azerbaijan","public","lithuania",0
+"azerbaijan","public","malta",0
+"azerbaijan","public","moldova",1
+"azerbaijan","public","netherlands",0
+"azerbaijan","public","north macedonia",3
+"azerbaijan","public","norway",1
+"azerbaijan","public","poland",0
+"azerbaijan","public","portugal",0
+"azerbaijan","public","romania",4
+"azerbaijan","public","russia",4
+"azerbaijan","public","san marino",0
+"azerbaijan","public","serbia",4
+"azerbaijan","public","slovenia",0
+"azerbaijan","public","spain",0
+"azerbaijan","public","sweden",0
+"azerbaijan","public","switzerland",0
+"azerbaijan","public","ukraine",3
+"azerbaijan","public","united kingdom",0
+"belgium","public","albania",0
+"belgium","public","australia",0
+"belgium","public","austria",0
+"belgium","public","azerbaijan",0
+"belgium","public","belgium",0
+"belgium","public","bulgaria",0
+"belgium","public","croatia",0
+"belgium","public","cyprus",0
+"belgium","public","czech republic",0
+"belgium","public","denmark",0
+"belgium","public","estonia",0
+"belgium","public","finland",0
+"belgium","public","france",0
+"belgium","public","georgia",0
+"belgium","public","germany",0
+"belgium","public","greece",0
+"belgium","public","iceland",0
+"belgium","public","ireland",0
+"belgium","public","israel",0
+"belgium","public","italy",0
+"belgium","public","latvia",0
+"belgium","public","lithuania",2
+"belgium","public","malta",0
+"belgium","public","moldova",0
+"belgium","public","netherlands",0
+"belgium","public","north macedonia",0
+"belgium","public","norway",0
+"belgium","public","poland",0
+"belgium","public","portugal",0
+"belgium","public","romania",0
+"belgium","public","russia",0
+"belgium","public","san marino",0
+"belgium","public","serbia",0
+"belgium","public","slovenia",0
+"belgium","public","spain",0
+"belgium","public","sweden",0
+"belgium","public","switzerland",0
+"belgium","public","ukraine",1
+"belgium","public","united kingdom",0
+"bulgaria","public","albania",5
+"bulgaria","public","australia",0
+"bulgaria","public","austria",0
+"bulgaria","public","azerbaijan",0
+"bulgaria","public","belgium",0
+"bulgaria","public","bulgaria",0
+"bulgaria","public","croatia",0
+"bulgaria","public","cyprus",7
+"bulgaria","public","czech republic",0
+"bulgaria","public","denmark",0
+"bulgaria","public","estonia",0
+"bulgaria","public","finland",0
+"bulgaria","public","france",0
+"bulgaria","public","georgia",0
+"bulgaria","public","germany",0
+"bulgaria","public","greece",0
+"bulgaria","public","iceland",0
+"bulgaria","public","ireland",0
+"bulgaria","public","israel",0
+"bulgaria","public","italy",0
+"bulgaria","public","latvia",0
+"bulgaria","public","lithuania",0
+"bulgaria","public","malta",0
+"bulgaria","public","moldova",0
+"bulgaria","public","netherlands",0
+"bulgaria","public","north macedonia",0
+"bulgaria","public","norway",0
+"bulgaria","public","poland",0
+"bulgaria","public","portugal",0
+"bulgaria","public","romania",0
+"bulgaria","public","russia",0
+"bulgaria","public","san marino",2
+"bulgaria","public","serbia",0
+"bulgaria","public","slovenia",0
+"bulgaria","public","spain",8
+"bulgaria","public","sweden",0
+"bulgaria","public","switzerland",0
+"bulgaria","public","ukraine",0
+"bulgaria","public","united kingdom",8
+"cyprus","public","albania",2
+"cyprus","public","australia",0
+"cyprus","public","austria",0
+"cyprus","public","azerbaijan",0
+"cyprus","public","belgium",0
+"cyprus","public","bulgaria",0
+"cyprus","public","croatia",0
+"cyprus","public","cyprus",0
+"cyprus","public","czech republic",0
+"cyprus","public","denmark",0
+"cyprus","public","estonia",0
+"cyprus","public","finland",0
+"cyprus","public","france",0
+"cyprus","public","georgia",0
+"cyprus","public","germany",0
+"cyprus","public","greece",12
+"cyprus","public","iceland",0
+"cyprus","public","ireland",0
+"cyprus","public","israel",0
+"cyprus","public","italy",0
+"cyprus","public","latvia",0
+"cyprus","public","lithuania",0
+"cyprus","public","malta",2
+"cyprus","public","moldova",0
+"cyprus","public","netherlands",0
+"cyprus","public","north macedonia",6
+"cyprus","public","norway",0
+"cyprus","public","poland",0
+"cyprus","public","portugal",0
+"cyprus","public","romania",0
+"cyprus","public","russia",12
+"cyprus","public","san marino",8
+"cyprus","public","serbia",2
+"cyprus","public","slovenia",0
+"cyprus","public","spain",0
+"cyprus","public","sweden",0
+"cyprus","public","switzerland",0
+"cyprus","public","ukraine",0
+"cyprus","public","united kingdom",0
+"finland","public","albania",3
+"finland","public","australia",3
+"finland","public","austria",4
+"finland","public","azerbaijan",5
+"finland","public","belgium",6
+"finland","public","bulgaria",8
+"finland","public","croatia",6
+"finland","public","cyprus",4
+"finland","public","czech republic",4
+"finland","public","denmark",7
+"finland","public","estonia",12
+"finland","public","finland",0
+"finland","public","france",1
+"finland","public","georgia",0
+"finland","public","germany",8
+"finland","public","greece",6
+"finland","public","iceland",12
+"finland","public","ireland",5
+"finland","public","israel",4
+"finland","public","italy",8
+"finland","public","latvia",8
+"finland","public","lithuania",7
+"finland","public","malta",7
+"finland","public","moldova",5
+"finland","public","netherlands",4
+"finland","public","north macedonia",2
+"finland","public","norway",6
+"finland","public","poland",6
+"finland","public","portugal",5
+"finland","public","romania",6
+"finland","public","russia",8
+"finland","public","san marino",4
+"finland","public","serbia",7
+"finland","public","slovenia",4
+"finland","public","spain",2
+"finland","public","sweden",12
+"finland","public","switzerland",4
+"finland","public","ukraine",8
+"finland","public","united kingdom",7
+"france","public","albania",6
+"france","public","australia",4
+"france","public","austria",6
+"france","public","azerbaijan",2
+"france","public","belgium",12
+"france","public","bulgaria",10
+"france","public","croatia",7
+"france","public","cyprus",8
+"france","public","czech republic",2
+"france","public","denmark",3
+"france","public","estonia",7
+"france","public","finland",6
+"france","public","france",0
+"france","public","georgia",5
+"france","public","germany",10
+"france","public","greece",8
+"france","public","iceland",7
+"france","public","ireland",7
+"france","public","israel",8
+"france","public","italy",1
+"france","public","latvia",3
+"france","public","lithuania",8
+"france","public","malta",3
+"france","public","moldova",6
+"france","public","netherlands",12
+"france","public","north macedonia",5
+"france","public","norway",4
+"france","public","poland",5
+"france","public","portugal",12
+"france","public","romania",8
+"france","public","russia",6
+"france","public","san marino",10
+"france","public","serbia",10
+"france","public","slovenia",6
+"france","public","spain",12
+"france","public","sweden",6
+"france","public","switzerland",6
+"france","public","ukraine",5
+"france","public","united kingdom",5
+"germany","public","albania",0
+"germany","public","australia",0
+"germany","public","austria",0
+"germany","public","azerbaijan",0
+"germany","public","belgium",0
+"germany","public","bulgaria",0
+"germany","public","croatia",0
+"germany","public","cyprus",0
+"germany","public","czech republic",0
+"germany","public","denmark",0
+"germany","public","estonia",0
+"germany","public","finland",0
+"germany","public","france",0
+"germany","public","georgia",0
+"germany","public","germany",0
+"germany","public","greece",0
+"germany","public","iceland",0
+"germany","public","ireland",0
+"germany","public","israel",0
+"germany","public","italy",0
+"germany","public","latvia",0
+"germany","public","lithuania",0
+"germany","public","malta",0
+"germany","public","moldova",0
+"germany","public","netherlands",0
+"germany","public","north macedonia",0
+"germany","public","norway",0
+"germany","public","poland",0
+"germany","public","portugal",0
+"germany","public","romania",0
+"germany","public","russia",0
+"germany","public","san marino",0
+"germany","public","serbia",0
+"germany","public","slovenia",0
+"germany","public","spain",0
+"germany","public","sweden",0
+"germany","public","switzerland",0
+"germany","public","ukraine",0
+"germany","public","united kingdom",0
+"greece","public","albania",8
+"greece","public","australia",0
+"greece","public","austria",0
+"greece","public","azerbaijan",0
+"greece","public","belgium",0
+"greece","public","bulgaria",2
+"greece","public","croatia",0
+"greece","public","cyprus",12
+"greece","public","czech republic",8
+"greece","public","denmark",0
+"greece","public","estonia",0
+"greece","public","finland",0
+"greece","public","france",0
+"greece","public","georgia",12
+"greece","public","germany",0
+"greece","public","greece",0
+"greece","public","iceland",0
+"greece","public","ireland",0
+"greece","public","israel",0
+"greece","public","italy",0
+"greece","public","latvia",0
+"greece","public","lithuania",0
+"greece","public","malta",0
+"greece","public","moldova",7
+"greece","public","netherlands",10
+"greece","public","north macedonia",0
+"greece","public","norway",0
+"greece","public","poland",0
+"greece","public","portugal",2
+"greece","public","romania",0
+"greece","public","russia",0
+"greece","public","san marino",7
+"greece","public","serbia",3
+"greece","public","slovenia",8
+"greece","public","spain",0
+"greece","public","sweden",0
+"greece","public","switzerland",0
+"greece","public","ukraine",0
+"greece","public","united kingdom",0
+"iceland","public","albania",0
+"iceland","public","australia",12
+"iceland","public","austria",10
+"iceland","public","azerbaijan",0
+"iceland","public","belgium",5
+"iceland","public","bulgaria",0
+"iceland","public","croatia",4
+"iceland","public","cyprus",0
+"iceland","public","czech republic",7
+"iceland","public","denmark",12
+"iceland","public","estonia",3
+"iceland","public","finland",12
+"iceland","public","france",4
+"iceland","public","georgia",1
+"iceland","public","germany",6
+"iceland","public","greece",0
+"iceland","public","iceland",0
+"iceland","public","ireland",10
+"iceland","public","israel",1
+"iceland","public","italy",6
+"iceland","public","latvia",5
+"iceland","public","lithuania",3
+"iceland","public","malta",5
+"iceland","public","moldova",0
+"iceland","public","netherlands",8
+"iceland","public","north macedonia",0
+"iceland","public","norway",10
+"iceland","public","poland",8
+"iceland","public","portugal",3
+"iceland","public","romania",0
+"iceland","public","russia",1
+"iceland","public","san marino",0
+"iceland","public","serbia",5
+"iceland","public","slovenia",3
+"iceland","public","spain",5
+"iceland","public","sweden",10
+"iceland","public","switzerland",5
+"iceland","public","ukraine",6
+"iceland","public","united kingdom",10
+"israel","public","albania",0
+"israel","public","australia",0
+"israel","public","austria",0
+"israel","public","azerbaijan",12
+"israel","public","belgium",0
+"israel","public","bulgaria",0
+"israel","public","croatia",0
+"israel","public","cyprus",2
+"israel","public","czech republic",0
+"israel","public","denmark",0
+"israel","public","estonia",0
+"israel","public","finland",0
+"israel","public","france",5
+"israel","public","georgia",0
+"israel","public","germany",0
+"israel","public","greece",0
+"israel","public","iceland",0
+"israel","public","ireland",0
+"israel","public","israel",0
+"israel","public","italy",0
+"israel","public","latvia",0
+"israel","public","lithuania",0
+"israel","public","malta",0
+"israel","public","moldova",0
+"israel","public","netherlands",0
+"israel","public","north macedonia",0
+"israel","public","norway",0
+"israel","public","poland",0
+"israel","public","portugal",0
+"israel","public","romania",1
+"israel","public","russia",0
+"israel","public","san marino",0
+"israel","public","serbia",0
+"israel","public","slovenia",0
+"israel","public","spain",0
+"israel","public","sweden",0
+"israel","public","switzerland",0
+"israel","public","ukraine",0
+"israel","public","united kingdom",0
+"italy","public","albania",10
+"italy","public","australia",7
+"italy","public","austria",8
+"italy","public","azerbaijan",10
+"italy","public","belgium",8
+"italy","public","bulgaria",12
+"italy","public","croatia",10
+"italy","public","cyprus",10
+"italy","public","czech republic",6
+"italy","public","denmark",5
+"italy","public","estonia",8
+"italy","public","finland",8
+"italy","public","france",10
+"italy","public","georgia",8
+"italy","public","germany",7
+"italy","public","greece",10
+"italy","public","iceland",5
+"italy","public","ireland",6
+"italy","public","israel",7
+"italy","public","italy",0
+"italy","public","latvia",7
+"italy","public","lithuania",10
+"italy","public","malta",12
+"italy","public","moldova",8
+"italy","public","netherlands",2
+"italy","public","north macedonia",8
+"italy","public","norway",7
+"italy","public","poland",10
+"italy","public","portugal",7
+"italy","public","romania",10
+"italy","public","russia",10
+"italy","public","san marino",12
+"italy","public","serbia",12
+"italy","public","slovenia",10
+"italy","public","spain",10
+"italy","public","sweden",3
+"italy","public","switzerland",10
+"italy","public","ukraine",12
+"italy","public","united kingdom",3
+"lithuania","public","albania",0
+"lithuania","public","australia",6
+"lithuania","public","austria",3
+"lithuania","public","azerbaijan",0
+"lithuania","public","belgium",7
+"lithuania","public","bulgaria",0
+"lithuania","public","croatia",0
+"lithuania","public","cyprus",5
+"lithuania","public","czech republic",1
+"lithuania","public","denmark",4
+"lithuania","public","estonia",10
+"lithuania","public","finland",5
+"lithuania","public","france",0
+"lithuania","public","georgia",10
+"lithuania","public","germany",12
+"lithuania","public","greece",0
+"lithuania","public","iceland",4
+"lithuania","public","ireland",12
+"lithuania","public","israel",3
+"lithuania","public","italy",5
+"lithuania","public","latvia",12
+"lithuania","public","lithuania",0
+"lithuania","public","malta",6
+"lithuania","public","moldova",2
+"lithuania","public","netherlands",3
+"lithuania","public","north macedonia",0
+"lithuania","public","norway",12
+"lithuania","public","poland",4
+"lithuania","public","portugal",0
+"lithuania","public","romania",3
+"lithuania","public","russia",2
+"lithuania","public","san marino",0
+"lithuania","public","serbia",0
+"lithuania","public","slovenia",0
+"lithuania","public","spain",4
+"lithuania","public","sweden",7
+"lithuania","public","switzerland",1
+"lithuania","public","ukraine",10
+"lithuania","public","united kingdom",12
+"malta","public","albania",0
+"malta","public","australia",8
+"malta","public","austria",2
+"malta","public","azerbaijan",0
+"malta","public","belgium",2
+"malta","public","bulgaria",0
+"malta","public","croatia",0
+"malta","public","cyprus",1
+"malta","public","czech republic",0
+"malta","public","denmark",2
+"malta","public","estonia",0
+"malta","public","finland",0
+"malta","public","france",0
+"malta","public","georgia",0
+"malta","public","germany",0
+"malta","public","greece",3
+"malta","public","iceland",3
+"malta","public","ireland",4
+"malta","public","israel",5
+"malta","public","italy",0
+"malta","public","latvia",0
+"malta","public","lithuania",0
+"malta","public","malta",0
+"malta","public","moldova",0
+"malta","public","netherlands",1
+"malta","public","north macedonia",0
+"malta","public","norway",3
+"malta","public","poland",0
+"malta","public","portugal",0
+"malta","public","romania",2
+"malta","public","russia",0
+"malta","public","san marino",0
+"malta","public","serbia",0
+"malta","public","slovenia",0
+"malta","public","spain",3
+"malta","public","sweden",2
+"malta","public","switzerland",0
+"malta","public","ukraine",0
+"malta","public","united kingdom",6
+"moldova","public","albania",7
+"moldova","public","australia",0
+"moldova","public","austria",0
+"moldova","public","azerbaijan",1
+"moldova","public","belgium",0
+"moldova","public","bulgaria",0
+"moldova","public","croatia",0
+"moldova","public","cyprus",0
+"moldova","public","czech republic",12
+"moldova","public","denmark",0
+"moldova","public","estonia",0
+"moldova","public","finland",2
+"moldova","public","france",7
+"moldova","public","georgia",2
+"moldova","public","germany",0
+"moldova","public","greece",0
+"moldova","public","iceland",0
+"moldova","public","ireland",0
+"moldova","public","israel",0
+"moldova","public","italy",2
+"moldova","public","latvia",0
+"moldova","public","lithuania",0
+"moldova","public","malta",0
+"moldova","public","moldova",0
+"moldova","public","netherlands",0
+"moldova","public","north macedonia",0
+"moldova","public","norway",0
+"moldova","public","poland",0
+"moldova","public","portugal",8
+"moldova","public","romania",12
+"moldova","public","russia",3
+"moldova","public","san marino",6
+"moldova","public","serbia",0
+"moldova","public","slovenia",0
+"moldova","public","spain",0
+"moldova","public","sweden",0
+"moldova","public","switzerland",0
+"moldova","public","ukraine",0
+"moldova","public","united kingdom",0
+"netherlands","public","albania",0
+"netherlands","public","australia",0
+"netherlands","public","austria",0
+"netherlands","public","azerbaijan",0
+"netherlands","public","belgium",0
+"netherlands","public","bulgaria",0
+"netherlands","public","croatia",0
+"netherlands","public","cyprus",0
+"netherlands","public","czech republic",0
+"netherlands","public","denmark",0
+"netherlands","public","estonia",0
+"netherlands","public","finland",0
+"netherlands","public","france",0
+"netherlands","public","georgia",0
+"netherlands","public","germany",0
+"netherlands","public","greece",0
+"netherlands","public","iceland",0
+"netherlands","public","ireland",0
+"netherlands","public","israel",0
+"netherlands","public","italy",0
+"netherlands","public","latvia",0
+"netherlands","public","lithuania",0
+"netherlands","public","malta",0
+"netherlands","public","moldova",0
+"netherlands","public","netherlands",0
+"netherlands","public","north macedonia",0
+"netherlands","public","norway",0
+"netherlands","public","poland",0
+"netherlands","public","portugal",0
+"netherlands","public","romania",0
+"netherlands","public","russia",0
+"netherlands","public","san marino",0
+"netherlands","public","serbia",0
+"netherlands","public","slovenia",0
+"netherlands","public","spain",0
+"netherlands","public","sweden",0
+"netherlands","public","switzerland",0
+"netherlands","public","ukraine",0
+"netherlands","public","united kingdom",0
+"norway","public","albania",0
+"norway","public","australia",1
+"norway","public","austria",1
+"norway","public","azerbaijan",7
+"norway","public","belgium",1
+"norway","public","bulgaria",0
+"norway","public","croatia",0
+"norway","public","cyprus",0
+"norway","public","czech republic",0
+"norway","public","denmark",8
+"norway","public","estonia",4
+"norway","public","finland",4
+"norway","public","france",0
+"norway","public","georgia",0
+"norway","public","germany",1
+"norway","public","greece",0
+"norway","public","iceland",1
+"norway","public","ireland",0
+"norway","public","israel",0
+"norway","public","italy",0
+"norway","public","latvia",2
+"norway","public","lithuania",5
+"norway","public","malta",10
+"norway","public","moldova",0
+"norway","public","netherlands",0
+"norway","public","north macedonia",0
+"norway","public","norway",0
+"norway","public","poland",3
+"norway","public","portugal",0
+"norway","public","romania",0
+"norway","public","russia",0
+"norway","public","san marino",0
+"norway","public","serbia",0
+"norway","public","slovenia",2
+"norway","public","spain",0
+"norway","public","sweden",8
+"norway","public","switzerland",0
+"norway","public","ukraine",0
+"norway","public","united kingdom",2
+"portugal","public","albania",0
+"portugal","public","australia",0
+"portugal","public","austria",0
+"portugal","public","azerbaijan",0
+"portugal","public","belgium",0
+"portugal","public","bulgaria",0
+"portugal","public","croatia",0
+"portugal","public","cyprus",0
+"portugal","public","czech republic",0
+"portugal","public","denmark",0
+"portugal","public","estonia",0
+"portugal","public","finland",0
+"portugal","public","france",8
+"portugal","public","georgia",0
+"portugal","public","germany",0
+"portugal","public","greece",0
+"portugal","public","iceland",2
+"portugal","public","ireland",2
+"portugal","public","israel",0
+"portugal","public","italy",0
+"portugal","public","latvia",0
+"portugal","public","lithuania",0
+"portugal","public","malta",0
+"portugal","public","moldova",0
+"portugal","public","netherlands",6
+"portugal","public","north macedonia",0
+"portugal","public","norway",0
+"portugal","public","poland",0
+"portugal","public","portugal",0
+"portugal","public","romania",0
+"portugal","public","russia",0
+"portugal","public","san marino",0
+"portugal","public","serbia",0
+"portugal","public","slovenia",0
+"portugal","public","spain",1
+"portugal","public","sweden",0
+"portugal","public","switzerland",8
+"portugal","public","ukraine",0
+"portugal","public","united kingdom",0
+"russia","public","albania",0
+"russia","public","australia",0
+"russia","public","austria",0
+"russia","public","azerbaijan",6
+"russia","public","belgium",0
+"russia","public","bulgaria",7
+"russia","public","croatia",3
+"russia","public","cyprus",3
+"russia","public","czech republic",5
+"russia","public","denmark",0
+"russia","public","estonia",6
+"russia","public","finland",1
+"russia","public","france",0
+"russia","public","georgia",4
+"russia","public","germany",5
+"russia","public","greece",1
+"russia","public","iceland",0
+"russia","public","ireland",0
+"russia","public","israel",10
+"russia","public","italy",7
+"russia","public","latvia",10
+"russia","public","lithuania",4
+"russia","public","malta",0
+"russia","public","moldova",12
+"russia","public","netherlands",0
+"russia","public","north macedonia",1
+"russia","public","norway",0
+"russia","public","poland",2
+"russia","public","portugal",1
+"russia","public","romania",0
+"russia","public","russia",0
+"russia","public","san marino",1
+"russia","public","serbia",6
+"russia","public","slovenia",1
+"russia","public","spain",0
+"russia","public","sweden",0
+"russia","public","switzerland",0
+"russia","public","ukraine",4
+"russia","public","united kingdom",0
+"san marino","public","albania",0
+"san marino","public","australia",0
+"san marino","public","austria",0
+"san marino","public","azerbaijan",3
+"san marino","public","belgium",0
+"san marino","public","bulgaria",0
+"san marino","public","croatia",0
+"san marino","public","cyprus",0
+"san marino","public","czech republic",0
+"san marino","public","denmark",0
+"san marino","public","estonia",0
+"san marino","public","finland",0
+"san marino","public","france",0
+"san marino","public","georgia",7
+"san marino","public","germany",0
+"san marino","public","greece",0
+"san marino","public","iceland",0
+"san marino","public","ireland",0
+"san marino","public","israel",0
+"san marino","public","italy",3
+"san marino","public","latvia",0
+"san marino","public","lithuania",0
+"san marino","public","malta",0
+"san marino","public","moldova",0
+"san marino","public","netherlands",0
+"san marino","public","north macedonia",0
+"san marino","public","norway",0
+"san marino","public","poland",0
+"san marino","public","portugal",0
+"san marino","public","romania",0
+"san marino","public","russia",0
+"san marino","public","san marino",0
+"san marino","public","serbia",0
+"san marino","public","slovenia",0
+"san marino","public","spain",0
+"san marino","public","sweden",0
+"san marino","public","switzerland",0
+"san marino","public","ukraine",0
+"san marino","public","united kingdom",0
+"serbia","public","albania",0
+"serbia","public","australia",2
+"serbia","public","austria",12
+"serbia","public","azerbaijan",0
+"serbia","public","belgium",0
+"serbia","public","bulgaria",5
+"serbia","public","croatia",12
+"serbia","public","cyprus",0
+"serbia","public","czech republic",0
+"serbia","public","denmark",0
+"serbia","public","estonia",0
+"serbia","public","finland",0
+"serbia","public","france",3
+"serbia","public","georgia",0
+"serbia","public","germany",3
+"serbia","public","greece",0
+"serbia","public","iceland",0
+"serbia","public","ireland",0
+"serbia","public","israel",0
+"serbia","public","italy",4
+"serbia","public","latvia",0
+"serbia","public","lithuania",0
+"serbia","public","malta",4
+"serbia","public","moldova",0
+"serbia","public","netherlands",0
+"serbia","public","north macedonia",12
+"serbia","public","norway",0
+"serbia","public","poland",0
+"serbia","public","portugal",0
+"serbia","public","romania",0
+"serbia","public","russia",0
+"serbia","public","san marino",0
+"serbia","public","serbia",0
+"serbia","public","slovenia",12
+"serbia","public","spain",0
+"serbia","public","sweden",1
+"serbia","public","switzerland",12
+"serbia","public","ukraine",0
+"serbia","public","united kingdom",0
+"spain","public","albania",0
+"spain","public","australia",0
+"spain","public","austria",0
+"spain","public","azerbaijan",0
+"spain","public","belgium",0
+"spain","public","bulgaria",0
+"spain","public","croatia",0
+"spain","public","cyprus",0
+"spain","public","czech republic",0
+"spain","public","denmark",0
+"spain","public","estonia",0
+"spain","public","finland",0
+"spain","public","france",0
+"spain","public","georgia",0
+"spain","public","germany",0
+"spain","public","greece",0
+"spain","public","iceland",0
+"spain","public","ireland",0
+"spain","public","israel",0
+"spain","public","italy",0
+"spain","public","latvia",0
+"spain","public","lithuania",0
+"spain","public","malta",0
+"spain","public","moldova",0
+"spain","public","netherlands",0
+"spain","public","north macedonia",0
+"spain","public","norway",0
+"spain","public","poland",0
+"spain","public","portugal",0
+"spain","public","romania",0
+"spain","public","russia",0
+"spain","public","san marino",0
+"spain","public","serbia",0
+"spain","public","slovenia",0
+"spain","public","spain",0
+"spain","public","sweden",0
+"spain","public","switzerland",0
+"spain","public","ukraine",0
+"spain","public","united kingdom",0
+"sweden","public","albania",1
+"sweden","public","australia",0
+"sweden","public","austria",0
+"sweden","public","azerbaijan",0
+"sweden","public","belgium",3
+"sweden","public","bulgaria",1
+"sweden","public","croatia",0
+"sweden","public","cyprus",0
+"sweden","public","czech republic",0
+"sweden","public","denmark",10
+"sweden","public","estonia",1
+"sweden","public","finland",3
+"sweden","public","france",2
+"sweden","public","georgia",0
+"sweden","public","germany",0
+"sweden","public","greece",0
+"sweden","public","iceland",10
+"sweden","public","ireland",1
+"sweden","public","israel",0
+"sweden","public","italy",0
+"sweden","public","latvia",1
+"sweden","public","lithuania",1
+"sweden","public","malta",8
+"sweden","public","moldova",3
+"sweden","public","netherlands",0
+"sweden","public","north macedonia",0
+"sweden","public","norway",8
+"sweden","public","poland",1
+"sweden","public","portugal",4
+"sweden","public","romania",0
+"sweden","public","russia",0
+"sweden","public","san marino",0
+"sweden","public","serbia",0
+"sweden","public","slovenia",0
+"sweden","public","spain",0
+"sweden","public","sweden",0
+"sweden","public","switzerland",3
+"sweden","public","ukraine",2
+"sweden","public","united kingdom",0
+"switzerland","public","albania",12
+"switzerland","public","australia",5
+"switzerland","public","austria",5
+"switzerland","public","azerbaijan",4
+"switzerland","public","belgium",4
+"switzerland","public","bulgaria",3
+"switzerland","public","croatia",5
+"switzerland","public","cyprus",0
+"switzerland","public","czech republic",3
+"switzerland","public","denmark",6
+"switzerland","public","estonia",2
+"switzerland","public","finland",7
+"switzerland","public","france",6
+"switzerland","public","georgia",0
+"switzerland","public","germany",2
+"switzerland","public","greece",4
+"switzerland","public","iceland",6
+"switzerland","public","ireland",3
+"switzerland","public","israel",6
+"switzerland","public","italy",0
+"switzerland","public","latvia",4
+"switzerland","public","lithuania",6
+"switzerland","public","malta",0
+"switzerland","public","moldova",4
+"switzerland","public","netherlands",7
+"switzerland","public","north macedonia",7
+"switzerland","public","norway",2
+"switzerland","public","poland",7
+"switzerland","public","portugal",6
+"switzerland","public","romania",5
+"switzerland","public","russia",5
+"switzerland","public","san marino",3
+"switzerland","public","serbia",1
+"switzerland","public","slovenia",5
+"switzerland","public","spain",7
+"switzerland","public","sweden",5
+"switzerland","public","switzerland",0
+"switzerland","public","ukraine",7
+"switzerland","public","united kingdom",1
+"ukraine","public","albania",4
+"ukraine","public","australia",10
+"ukraine","public","austria",7
+"ukraine","public","azerbaijan",8
+"ukraine","public","belgium",10
+"ukraine","public","bulgaria",6
+"ukraine","public","croatia",8
+"ukraine","public","cyprus",6
+"ukraine","public","czech republic",10
+"ukraine","public","denmark",1
+"ukraine","public","estonia",5
+"ukraine","public","finland",10
+"ukraine","public","france",12
+"ukraine","public","georgia",6
+"ukraine","public","germany",4
+"ukraine","public","greece",5
+"ukraine","public","iceland",8
+"ukraine","public","ireland",8
+"ukraine","public","israel",12
+"ukraine","public","italy",12
+"ukraine","public","latvia",6
+"ukraine","public","lithuania",12
+"ukraine","public","malta",1
+"ukraine","public","moldova",10
+"ukraine","public","netherlands",5
+"ukraine","public","north macedonia",4
+"ukraine","public","norway",5
+"ukraine","public","poland",12
+"ukraine","public","portugal",10
+"ukraine","public","romania",7
+"ukraine","public","russia",7
+"ukraine","public","san marino",5
+"ukraine","public","serbia",8
+"ukraine","public","slovenia",7
+"ukraine","public","spain",6
+"ukraine","public","sweden",4
+"ukraine","public","switzerland",2
+"ukraine","public","ukraine",0
+"ukraine","public","united kingdom",4
+"united kingdom","public","albania",0
+"united kingdom","public","australia",0
+"united kingdom","public","austria",0
+"united kingdom","public","azerbaijan",0
+"united kingdom","public","belgium",0
+"united kingdom","public","bulgaria",0
+"united kingdom","public","croatia",0
+"united kingdom","public","cyprus",0
+"united kingdom","public","czech republic",0
+"united kingdom","public","denmark",0
+"united kingdom","public","estonia",0
+"united kingdom","public","finland",0
+"united kingdom","public","france",0
+"united kingdom","public","georgia",0
+"united kingdom","public","germany",0
+"united kingdom","public","greece",0
+"united kingdom","public","iceland",0
+"united kingdom","public","ireland",0
+"united kingdom","public","israel",0
+"united kingdom","public","italy",0
+"united kingdom","public","latvia",0
+"united kingdom","public","lithuania",0
+"united kingdom","public","malta",0
+"united kingdom","public","moldova",0
+"united kingdom","public","netherlands",0
+"united kingdom","public","north macedonia",0
+"united kingdom","public","norway",0
+"united kingdom","public","poland",0
+"united kingdom","public","portugal",0
+"united kingdom","public","romania",0
+"united kingdom","public","russia",0
+"united kingdom","public","san marino",0
+"united kingdom","public","serbia",0
+"united kingdom","public","slovenia",0
+"united kingdom","public","spain",0
+"united kingdom","public","sweden",0
+"united kingdom","public","switzerland",0
+"united kingdom","public","ukraine",0
+"united kingdom","public","united kingdom",0
